@@ -1,0 +1,12 @@
+.table-header-text{
+    padding-left: 2rem;
+}
+
+.table-body-text{
+    padding-left: 2rem;
+}
+
+.action-icons{
+    width: 1.2rem;
+    cursor: pointer;
+}

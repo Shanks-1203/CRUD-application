@@ -1,0 +1,13 @@
+{
+    "name": "shanks/crud",
+    "description": "A simple CRUD application",
+    "authors": [
+        {
+            "name": "Shankar",
+            "email": "shankarravi1203@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
